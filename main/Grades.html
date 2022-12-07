@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="shortcut icon" href="img/download.svg"> 
+    <link rel="stylesheet" href="Grades.css">
+    <title>Grades</title>
+</head>
+<div class="container">
+<body>
+    <header>
+        <img class="logo" src="img/logo02.png" alt="logo">
+        <nav>
+            <ul class="nav-links">
+                <li><a href="mainmenu.html">Home</a></li>
+                <li><a href="News.html">News</a></li>
+                <li><a class="open-popup" id="open-popup" onclick="createPopup()">About</a></li>
+            </ul>
+        </nav>
+        <a class="cta" href="#" onclick="menuToggle()"><i class="fa-sharp fa-solid fa-user"></i></a>
+        <div class="action">
+            <div class="profile">
+            </div>
+            <div class="menu">
+                <h3>Hashim Al-Sharif <br> <span>Major : CIT</span></h3>
+                <ul>
+                  <li><img src="img/profile.png"><a href="editmyprofile.html">Edit Profile</a></li>
+                  <li><img src="img/help.png"><a href="mailto: sa@dcc.kfupm.edu.sa = Feedback&body = Message">Help & Services</a></li>
+                  <li><img src="img/logout.png"><a href="signinpage.html">Log Out</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="heading">
+        <h1>Grades</h1>
+    </div>
+    <div class="popup">
+      <div class="overlay" id="overlay"></div>
+      <div class="popup-content">
+          <h2>Student Information System Version 4.01</h2>
+          <p>The Student Information System is an in-house development made according to Dammam Community College's specification. We are constantly adding new features to it to serve our users better. We welcome your suggestions; many of the features were built because of user input. Please do take a few minutes and give us your comments. Hope you find this application informative and useful.</p>
+          <div class="controls">
+              <button class="close-btn" id="close-btn">Close</button>
+          </div>
+      </div>
+  </div>
+    <div class="gradestable">
+        <table>
+            <tr>
+              <th>Course</th>
+              <th>Section</th>
+              <th>Grade</th>  
+            </tr>
+            <tr>
+                <td>CIT111</td>
+                <td>1</td>
+                <td>A+</td>  
+              </tr>
+              <tr>
+                <td>CIT112</td>
+                <td>1</td>
+                <td>A+</td>  
+              </tr>
+              <tr>
+                <td>CIT113</td>
+                <td>1</td>
+                <td>A+</td>  
+              </tr>
+              <tr>
+                <td>ENG101</td>
+                <td>1</td>
+                <td>A+</td>  
+              </tr>
+              <tr>
+                <td>MATH115</td>
+                <td>1</td>
+                <td>A+</td>  
+              </tr>
+        </table>
+    </div>
+    <script>
+    function menuToggle() {
+    const toggleMenu = document.querySelector(".menu");
+    toggleMenu.classList.toggle("active");
+}
+function createPopup() {
+    var popupNode = document.querySelector(".popup");
+    var overlay = document.querySelector(".overlay");
+    var closeBtn = document.querySelector(".close-btn");
+    function openPopup(){
+        popupNode.classList.add("active");
+    }
+    function closePopup(){
+        popupNode.classList.remove("active");
+    }
+    closeBtn.addEventListener("click", closePopup);
+    overlay.addEventListener("click", closePopup);
+    return openPopup();
+    let popup = createPopup("#popup");
+document.querySelector("#open-popup").addEventListener("click", popup);
+}
+  </script>
+</body>
+</div>
+</html>

@@ -1,0 +1,99 @@
+ENG 101
+Intorduction to Academic Discourse
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ ENG 102
+Intorduction to Report Writing
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ IAS 111
+Belife and its Consequences
+2
+Core
+16:00
+16:50
+LEC
+MW
+
+
+ IAS 201
+Writing for Professional Needs
+2
+Core
+16:00
+16:50
+LEC
+MW
+
+
+ MATH 115
+Finite Mathematics
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ENG 101
+Intorduction to Academic Discourse
+3
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+ENG 102
+Intorduction to Report Writing
+3
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+IAS 111
+Belife and its Consequences
+2
+Core
+15:00
+15:50
+LEC
+MW
+
+
+IAS 201
+Writing for Professional Needs
+2
+Core
+15:00
+15:50
+LEC
+MW
+
+
+MATH 115
+Finite Mathematics
+3
+Core
+8:00
+8:50
+LEC
+UTR
+

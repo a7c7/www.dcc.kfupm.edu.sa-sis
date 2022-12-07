@@ -1,0 +1,339 @@
+ACCT 101
+Principles of Accounting I
+3
+Elective
+14:00
+15:50
+LAB
+T
+
+
+ BA 200
+Business Communication
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ACCT 101
+Principles of Accounting I
+3
+Elective
+9:00
+9:50
+LEC
+MW
+
+
+ACCT 252
+Managerial Accounting
+3
+Elective
+10:00
+11:50
+LAB
+U
+
+
+BA 101
+Introduction to Business
+3
+Elective
+10:00
+11:50
+LAB
+W
+
+
+BA 120
+Introduction to Sales
+3
+Elective
+9:00
+9:50
+LEC
+UTR
+
+
+BA 150
+Human Relations and Psychology
+3
+Elective
+9:00
+9:50
+LEC
+UTR
+
+
+BA 200
+Business Communication
+3
+Core
+13:00
+15:50
+LAB
+W
+
+
+BA 221
+Business Law
+3
+Elective
+13:00
+13:50
+LEC
+UTR
+
+
+CIT 111
+Introduction to Information Systems
+3
+Core
+11:00
+11:50
+LEC
+UTR
+
+
+CIT 112
+Web Authoring and Design I
+3
+Core
+14:00
+15:50
+LAB
+T
+
+
+CIT 113
+Introduction to Operating System
+3
+Core
+10:00
+10:50
+LEC
+MW
+
+
+CIT 122
+Introduction to Database Management
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 123
+Introduction to Networking
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 124
+Introduction to Information Security
+2
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 125
+Programming I
+3
+Core
+10:00
+10:50
+LEC
+UTR
+
+
+CIT 127
+Introduction to Computer Maintenance
+3
+Core
+8:00
+8:50
+LEC
+MW
+
+
+CIT 142
+Introduction to Computer Applications
+3
+Core
+13:00
+13:50
+LEC
+UTR
+
+
+CIT 199
+Summer Internship
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 214
+Introduction to Cloud computing
+3
+Elective
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 215
+Programming II
+3
+Core
+11:00
+11:50
+LEC
+UTR
+
+
+CIT 216
+Web Authoring and Design II
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 218
+Computer Forensics and Investigations
+3
+Elective
+8:00
+8:50
+LEC
+UTR
+
+
+CIT 222
+Server Administration
+3
+Elective
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 223
+Mobile Application Development
+3
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+CIT 224
+Database Administration
+3
+Elective
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 225
+Network Security and Penetration Testing
+3
+Core
+8:00
+8:50
+LEC
+MW
+
+
+CIT 226
+Data Integrity and Security
+3
+Elective
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 227
+Introduction to Linux
+3
+Elective
+9:00
+9:50
+LEC
+UTR
+
+
+CIT 243
+Introduction to ERP
+3
+Elective
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 249
+Special Topics
+3
+Elective
+9:00
+9:50
+LEC
+UTR
+
+
+CIT 270
+Capstone Project
+2
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+MGT 101
+Principles of Management
+3
+Elective
+11:00
+11:50
+LEC
+UTR
+
+
+MKT 101
+Principles of Marketing
+3
+Elective
+8:00
+8:50
+LEC
+UTR
+

@@ -1,0 +1,229 @@
+BA200
+Business Communication
+3
+elective
+14:00
+15:50
+LAB
+T
+
+
+BIOL133
+Biology for Engineers
+3
+core
+9:00
+9:50
+LEC
+UTR
+
+
+CHEM133
+General Chemistry
+4
+core
+9:00
+9:50
+LEC
+MW
+
+
+CIT142
+Introduction to Computer Applications
+3
+elective
+10:00
+11:50
+LAB
+U
+
+
+HRM206
+Workplace Psychology
+3
+elective
+10:00
+11:50
+LAB
+W
+
+
+MGT101
+Principles of Management
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+PHYS133
+General Physics
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+ST101
+Introduction to Safety Technology
+2
+core
+13:00
+15:50
+LAB
+W
+
+
+ST103
+Accident Investigation &amp; Analysis
+3
+core
+13:00
+13:50
+LEC
+UTR
+
+
+ST104
+Risk Assessment
+3
+core
+11:00
+11:50
+LEC
+UTR
+
+
+ST105
+Regulations and Legal Aspects of Safety
+3
+core
+14:00
+15:50
+LAB
+T
+
+
+ST199
+Summer Internship
+3
+core
+10:00
+10:50
+LEC
+MW
+
+
+ST201
+Safety Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+ST202
+Fire Protection Technology
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+ST203
+Hazardous Materials
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+ST204
+Construction Safety
+3
+core
+10:00
+10:50
+LEC
+UTR
+
+
+ST205
+Industrial Hygiene
+3
+core
+8:00
+8:50
+LEC
+MW
+
+
+ST207
+Human Factors in Safety
+3
+core
+13:00
+13:50
+LEC
+UTR
+
+
+ST208
+Safety Training Methods
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+ST209
+Emergency Management
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+ST212
+Environmental Safety
+3
+core
+11:00
+11:50
+LEC
+UTR
+
+
+ST249
+Special Topics in Occupational Health and Safety
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+ST270
+Safety Technology Project
+3
+core
+8:00
+8:50
+LEC
+UTR
+

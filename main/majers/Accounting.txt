@@ -1,0 +1,309 @@
+ACCT101
+Principles of Accounting I
+3
+Core
+9:00
+9:50
+LEC
+MW
+
+
+ ACCT102
+Principles of Accounting II
+3
+Core
+10:00
+11:50
+LAB
+U
+
+
+ ACCT205
+Computer Applications in Accounting
+3
+Core
+10:00
+11:50
+LAB
+W
+
+
+ BA 200
+Business Communication
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ BA221
+Business Law
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+ CIT 142
+Introduction to Computer Applications
+3
+Core
+13:00
+15:50
+LAB
+W
+
+
+ ECON103
+Introduction to Economics
+3
+Core
+13:00
+13:50
+LEC
+UTR
+
+
+ MGT101
+Principles of Management
+3
+elective
+11:00
+11:50
+LEC
+UTR
+
+
+ACCT101
+Principles of Accounting I
+3
+Core
+14:00
+15:50
+LAB
+T
+
+
+ACCT102
+Principles of Accounting II
+3
+Core
+10:00
+10:50
+LEC
+MW
+
+
+ACCT199
+Summer Internship
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+ACCT200
+Accounting Information Systems
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+ACCT201
+Intermediate Accounting I
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+ACCT202
+Intermediate Accounting II
+3
+Core
+10:00
+10:50
+LEC
+UTR
+
+
+ACCT205
+Computer Applications in Accounting
+3
+Core
+8:00
+8:50
+LEC
+MW
+
+
+ACCT245
+Introduction to Auditing
+3
+elective
+13:00
+13:50
+LEC
+UTR
+
+
+ACCT249
+Special Topics in Accounting
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+ACCT251
+Cost Accounting
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+ACCT252
+Managerial Accounting
+3
+Core
+11:00
+11:50
+LEC
+UTR
+
+
+ACCT258
+Zakat and Tax Accounting
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+BA 200
+Business Communication
+3
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+BA101
+Introduction to Business
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+BA221
+Business Law
+3
+Core
+8:00
+8:50
+LEC
+UTR
+
+
+CIT 111
+Introduction to Information Systems
+3
+Core
+n/a
+n/a
+n/a
+n/a
+
+
+CIT 142
+Introduction to Computer Applications
+3
+Core
+8:00
+8:50
+LEC
+MW
+
+
+CIT243
+Introduction to ERP
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+ECON103
+Introduction to Economics
+3
+Core
+9:00
+9:50
+LEC
+UTR
+
+
+HRM101
+Principles of Human Resource Management
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+MGT101
+Principles of Management
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+MKT101
+Principles of Marketing
+3
+elective
+8:00
+8:50
+LEC
+UTR
+
+
+SCM125
+Principles of Supply Chain Management
+3
+elective
+11:00
+11:50
+LEC
+UTR
+

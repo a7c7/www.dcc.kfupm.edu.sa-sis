@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="signinpage.css">
+    <script src="signinpage.js"></script>
+    <link rel="shortcut icon" href="img/download.svg"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>DCC Student Portal</title>
+</head>
+<div class="container">
+<body>
+        <div class="split-screen">
+            <div class="left"> <!-- The left side of the page that includes a picture -->
+                <section class="copy">
+                <h1>Dammam Community College</h1>
+                <p>Explore Your Future</p>
+                 </section>   
+            </div>
+            <div class="right"> <!-- The right side of the page that includes the inputs,etc... -->
+                <form action="javascript:onBtnClickHandle()"> <!-- href (link) for the button to let you go to the main menu -->
+                <section class="copy">
+                    <h2>Sign In</h2>
+                    <div class="findyouradvisor-container">
+                        <p><a href="https://www.dcc.kfupm.edu.sa/sisweb/frmFindAdvisor.aspx">Find Your Advisor</a></p>
+                    </div>
+                </section>
+                <div class="input-container studentid"> <!-- the textbox for enering id -->
+                <i class="fa-solid fa-id-card" id="idcard"></i> <!-- id card icon -->
+                <label for="fname">Student ID</label>
+                <input type="text" id="stid" name="stid" required>
+                </div>
+                <div class="input-container password"> <!-- the textbox for entering password -->
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" placeholder="Must be at least 6 characters" required>
+                    <span class="eye" onclick="eye()"> <!-- eye icons -->
+                    <i id="hide1" class="fa-solid fa-eye" style="display: none;"></i>
+                    <i id="hide2" class="fa-sharp fa-solid fa-eye-slash"></i>
+                    </span>
+                    </div>
+                    <div class="input-container cta"> <!-- rememberme section --> 
+                        <label class="checkbox-container"> 
+                            <input type="checkbox" id="rememberme" name="rememberme">
+                            <span class="checkmark"></span>
+                            Remember Me
+                        </label>
+                    </div>
+                    <button class="signin-btn" type="submit" onclick="btnloading()">
+                       <span class="btn-text">Sign In</span>
+                    </button> <!-- the button -->
+                    <section class="copy legal">
+                        <p><span class="small">By continuing, you agree to accept our <br> <a href="#"> Privacy Policy</a> &amp; <a href="#">Terms of Service</a>.</span></p>
+                    </section>
+                </form>
+            </div>
+        </div>
+</body>
+</div>
+</html>

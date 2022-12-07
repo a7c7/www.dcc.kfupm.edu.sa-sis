@@ -1,0 +1,229 @@
+ACCT101
+Principles of Accounting I
+3
+core
+14:00
+15:50
+LAB
+T
+
+
+ACCT102
+Principles of Accounting II
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+BA200
+Business Communication
+3
+core
+9:00
+9:50
+LEC
+MW
+
+
+BA221
+Business Law
+3
+elective
+10:00
+11:50
+LAB
+U
+
+
+CIT111
+Introduction to Information Systems
+3
+core
+10:00
+11:50
+LAB
+W
+
+
+CIT142
+Introduction to Computer Applications
+3
+core
+9:00
+9:50
+LEC
+UTR
+
+
+CIT243
+Introduction to ERP
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+ECON103
+Introduction to Economics
+3
+core
+13:00
+15:50
+LAB
+W
+
+
+HRM101
+Principles of Human Resource Management
+3
+core
+13:00
+13:50
+LEC
+UTR
+
+
+HRM102
+Staffing
+3
+core
+11:00
+11:50
+LEC
+UTR
+
+
+HRM199
+Summer Internship
+3
+core
+14:00
+15:50
+LAB
+T
+
+
+HRM201
+Training and Development
+3
+core
+10:00
+10:50
+LEC
+MW
+
+
+HRM202
+Compensation and Benefit Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+HRM204
+Labor Law and Social Insurance
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+HRM206
+Workplace Psychology
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+HRM210
+Human Resource Information Systems
+3
+elective
+10:00
+10:50
+LEC
+UTR
+
+
+HRM215
+Negotiation and Conflict Management
+3
+elective
+8:00
+8:50
+LEC
+MW
+
+
+HRM249
+Special Topics in HRM
+3
+elective
+13:00
+13:50
+LEC
+UTR
+
+
+MGT101
+Principles of Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+MGT202
+Organization Behavior
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+MKT101
+Principles of Marketing
+3
+core
+11:00
+11:50
+LEC
+UTR
+
+
+MKT205
+Introduction to Marketing Research
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+SCM125
+Principles of Supply Chain Management
+3
+elective
+8:00
+8:50
+LEC
+UTR
+

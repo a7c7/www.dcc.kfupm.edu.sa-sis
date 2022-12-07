@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+} 
+
+
+.DisplaySchedule{
+    clear: both;
+    margin: auto;
+}
+
+
+#Schedule_Table {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 120px;
+    height: 282px;
+    background: #fafafa;
+    border-collapse:collapse ;
+    text-align: center;
+    border-spacing: 0;
+    border-radius: 12px 12px 0 0;
+    overflow: hidden;
+    box-shadow: 0 5px 12px rgba(32, 32, 32, .3) ;
+}
+#Schedule_Table th, #Schedule_Table td {
+    padding: 12px 10px;
+    border: 1px solid rgba(32, 32, 32, .3);
+}
+#Schedule_Table th {
+    background-color: #888888;
+    color: #fafafa;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+} 
+
+#Schedule_Table td {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+#Schedule_Table tr:nth-child(odd) {
+    background-color: #eeeeee;
+}
+
+
+
+
+
+article div{
+    width: 50%;
+}
+
+.Available_courses{
+    width: 50%;
+    height: 200px;
+    float: left;
+    
+    
+}
+
+
+.Selected_courses{
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background: #fafafa;
+    border-collapse:collapse ;
+    text-align: center;
+    border-spacing: 0;
+    border-radius: 12px 12px 0 0;
+
+    box-shadow: 0 5px 12px rgba(32, 32, 32, .3) ;
+}
+
+
+#Table_Of_Available_Courses{
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background: #fafafa;
+    border-collapse:collapse ;
+    text-align: center;
+    border-spacing: 0;
+    border-radius: 12px 12px 0 0;
+
+    box-shadow: 0 5px 12px rgba(32, 32, 32, .3) ;
+}
+
+#Table_Of_Available_Courses td {
+    padding: 12px 10px;
+    border: 1px solid rgba(32, 32, 32, .3);
+}
+
+/* #Table_Of_Available_Courses tr {
+    width: auto;
+} */
+
+
+#Table_Of_Selected_Courses{
+    
+    height: 200px;
+    overflow-x: hidden;
+}
+
+#Table_Of_Selected_Courses td {
+
+    padding: 12px 10px;
+    border: 1px solid rgba(32, 32, 32, .3);
+}
+
+
+#displayPage table tr td{
+    font-size: 1px;
+    margin: 0;
+    padding: 2px;
+   
+}
+#displayPage table tr td input{
+   background: red;
+   width: max-content;
+   height: max-content;
+   
+}

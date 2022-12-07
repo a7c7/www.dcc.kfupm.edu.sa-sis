@@ -1,0 +1,229 @@
+ACCT 101
+Principles of Accounting I
+3
+core
+14:00
+15:50
+LAB
+T
+
+
+ACCT 102
+Principles of Accounting II
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+BA 200
+Business Communication
+3
+core
+9:00
+9:50
+LEC
+MW
+
+
+BA 221
+Business Law
+3
+core
+10:00
+11:50
+LAB
+U
+
+
+CIT 111
+Introduction to Information Systems
+3
+core
+10:00
+11:50
+LAB
+W
+
+
+CIT 142
+Introduction to Computer Applications
+3
+core
+9:00
+9:50
+LEC
+UTR
+
+
+CIT 243
+Introduction to ERP
+3
+elective
+9:00
+9:50
+LEC
+UTR
+
+
+ECON103
+Introduction to Economics
+3
+core
+13:00
+15:50
+LAB
+W
+
+
+MATH115
+Finite Mathematics
+3
+core
+13:00
+13:50
+LEC
+UTR
+
+
+MGT 101
+Principles of Management
+3
+core
+11:00
+11:50
+LEC
+UTR
+
+
+MKT 101
+Principles of Marketing
+3
+core
+14:00
+15:50
+LAB
+T
+
+
+MKT 201
+Distribution Channels
+3
+elective
+10:00
+10:50
+LEC
+MW
+
+
+MKT 205
+Introduction to Marketing Research
+3
+elective
+n/a
+n/a
+n/a
+n/a
+
+
+SCM 125
+Principles of Supply Chain Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+SCM 199
+Summer Internship
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+SCM 235
+Operations Management
+3
+core
+10:00
+10:50
+LEC
+UTR
+
+
+SCM 249
+Special Topics in Supply Chain Management
+3
+elective
+8:00
+8:50
+LEC
+MW
+
+
+SCM 250
+Inventory and Warehouse Management
+3
+core
+13:00
+13:50
+LEC
+UTR
+
+
+SCM 251
+Purchasing Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+SCM 253
+Transportation and Logistics
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+SCM 255
+Negotiations and Contracts
+3
+elective
+11:00
+11:50
+LEC
+UTR
+
+
+SCM 260
+Quality Management
+3
+core
+n/a
+n/a
+n/a
+n/a
+
+
+ST 104
+Risk Management
+3
+elective
+8:00
+8:50
+LEC
+UTR
+

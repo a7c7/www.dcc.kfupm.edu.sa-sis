@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body {
+        background-color: #edf0f1;
+}
+::selection {
+    background-color: #1a9f6a;
+    color: white;
+}
+li, a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #24252a;
+    text-decoration: none;
+}
+i {
+    color: #edf0f1;
+}
+header img {
+    width: 60px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+.logo {
+    cursor: pointer;
+}
+.nav-links {
+    list-style: none;
+}
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+.nav-links li a:hover {
+    color: #1a9f6a;
+}
+i {
+    padding: 9px 25px;
+    background-color: rgba(0,169,96,0.7);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+i:hover {
+    background-color: rgba(0,169,96,0.4); 
+}
+.heading h1 {
+    color: #24252a;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+.container{
+    animation: transitionIn 0.5s;
+
+}
+.action {
+    position: fixed;
+    top: 90px;
+    right: 30px;
+}
+.action .menu {
+    position: absolute;
+    top: 2px;
+    right: 110px;
+    padding: 10px 20px;
+    background-color: #fff;
+    width: 200px;
+    box-sizing: 0 5px 25px rgba(0,0,0,0.1);
+    border-radius: 15px;
+    transition: 0.5s;
+    visibility: hidden;
+    opacity: 0;
+}
+.action .menu.active {
+    visibility: visible;
+    opacity: 1;
+}
+.action .menu::before{
+    content: "";
+    position: absolute;
+    top: -5px;
+    right: 28px;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    transform: rotate(45deg);
+}
+.action .menu h3 {
+    font-family: "Montserrat", sans-serif;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px 0;
+    font-weight: 500;
+    columns: #555;
+    line-height: 1.2em;
+}
+.action .menu h3 span {
+    font-size: 14px;
+    color: #cecece;
+    font-weight: 400;
+}
+.action .menu ul li {
+    list-style: none;
+    padding: 10px 0;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    display: flex;
+    align-items: center;
+}
+.action .menu ul li img {
+    max-width: 20px;
+    margin-right: 10px;
+    opacity: 0.5;
+    transition: 0.5s;
+}
+.action .menu ul li:hover img {
+    opacity: 1;
+}
+.action .menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.action .menu ul li:hover a {
+    color: #1a9f6a;
+}
+.scheduletable table {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+    width: 468px;
+    height: 282px;
+    background: #fafafa;
+    border-collapse:collapse ;
+    text-align: center;
+    border-spacing: 0;
+    border-radius: 12px 12px 0 0;
+    overflow: hidden;
+    box-shadow: 0 5px 12px rgba(32, 32, 32, .3) ;
+}
+.scheduletable td , .scheduletable th {
+    padding: 0.6em;
+    border: 1px solid rgba(32, 32, 32, .3);
+}
+.scheduletable th {
+    background-color: #1a9f6a;
+    color: #fafafa;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+}
+.gscheduletable td {
+    font-family: "Open Sans", sans-serif;
+}
+.scheduletable tr:nth-child(odd) {
+    background-color: #eeeeee;
+}
+.popup {
+    position: fixed;
+    top: -100vh;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    transition: top 0ms ease-in-out 300ms;
+}
+.popup .overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5);
+    opacity: 1;
+    transition: opacity 100ms ease-in-out 200ms;
+}
+.popup .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1.15);
+    width: 95%;
+    max-width: 350px;
+    background: #fff;
+    padding: 25px;
+    border-radius: 20px;
+    opacity: 0;
+    box-shadow: 0px 2px 2px 5px rgba(0,0,0,0.05);
+    transition: all 300ms ease-in-out;
+}
+.popup .popup-content h2{
+    margin: 10px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    color: #111;
+    text-align: center;
+}
+.popup .popup-content p{
+    margin: 15px 0px;
+    font-family: "Montserrat", sans-serif;
+    color: #222;
+    font-size: 16px;
+    text-align: center;
+}
+.popup .popup-content .controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px 0px;
+}
+.popup .popup-content .controls button {
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.popup .popup-content .controls .close-btn {
+    background: transparent;
+    color: #1a9f6a;
+}
+.popup.active {
+    top: 0px;
+    transition: top 0ms ease-in-out 0ms;
+    opacity: 1;
+    transition: all 300ms ease-in-out;
+}
+.popup.active .popup-content {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+.open-popup {
+    cursor: pointer;
+}
+@keyframes transitionIn {
+
+    from {
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to{
+        opacity: 1;
+        transform: rotateX(0);
+    }
+}

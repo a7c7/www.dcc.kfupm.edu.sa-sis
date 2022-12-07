@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="shortcut icon" href="img/download.svg"> 
+    <link rel="stylesheet" href="Registeration.css">
+    <link rel="stylesheet" href="style_Scheul.css">
+    <title>Registeration</title>
+</head>
+<div class="container">
+<body>
+    <header>
+        <img class="logo" src="img/logo02.png" alt="logo">
+        <nav>
+            <ul class="nav-links">
+                <li><a href="mainmenu.html">Home</a></li>
+                <li><a href="News.html">News</a></li>
+                <li><a class="open-popup" id="open-popup" onclick="createPopup()">About</a></li>
+            </ul>
+        </nav>
+        <a class="cta" href="#" onclick="menuToggle()"><i class="fa-sharp fa-solid fa-user"></i></a>
+        <div class="action">
+            <div class="profile">
+            </div>
+            <div class="menu">
+                <h3>Hashim Al-Sharif <br> <span>Major : CIT</span></h3>
+                <ul>
+                    <li><img src="img/profile.png"><a href="editmyprofile.html">Edit Profile</a></li>
+                    <li><img src="img/help.png"><a href="mailto: sa@dcc.kfupm.edu.sa = Feedback&body = Message">Help & Services</a></li>
+                    <li><img src="img/logout.png"><a href="signinpage.html">Log Out</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="heading">
+        <h1>Registeration</h1>
+    </div>
+    <div class="popup">
+        <div class="overlay" id="overlay"></div>
+        <div class="popup-content">
+            <h2>Student Information System Version 4.01</h2>
+            <p>The Student Information System is an in-house development made according to Dammam Community College's specification. We are constantly adding new features to it to serve our users better. We welcome your suggestions; many of the features were built because of user input. Please do take a few minutes and give us your comments. Hope you find this application informative and useful.</p>
+            <div class="controls">
+                <button class="close-btn" id="close-btn">Close</button>
+            </div>
+        </div>
+    </div>
+    <script>
+    function menuToggle() {
+    const toggleMenu = document.querySelector(".menu");
+    toggleMenu.classList.toggle("active");
+}
+function createPopup() {
+    var popupNode = document.querySelector(".popup");
+    var overlay = document.querySelector(".overlay");
+    var closeBtn = document.querySelector(".close-btn");
+    function openPopup(){
+        popupNode.classList.add("active");
+    }
+    function closePopup(){
+        popupNode.classList.remove("active");
+    }
+    closeBtn.addEventListener("click", closePopup);
+    overlay.addEventListener("click", closePopup);
+    return openPopup();
+    let popup = createPopup("#popup");
+document.querySelector("#open-popup").addEventListener("click", popup);
+}
+    </script>
+
+<!--Registeration code-->
+<select id="Corues">
+    <option value="00">None</option>
+    <option value="01">Accounting</option>
+    <option value="02">Computer & Information Technology</option>            
+    <option value="03">Human Resource Management</option>
+    <option value="04">Marketing</option>
+    <option value="05">General Courses</option>
+    <option value="06">Supply Chain Mangement</option>
+    <option value="07">Safety Technology</option>
+</select>
+
+<select id="Term">
+    <option value="00">212</option>
+    <option value="01">111</option>
+    <option value="01">333</option>
+    <option value="01">444</option>
+    <option value="01">555</option>
+</select>
+<input type="button" onclick="Show()" value="Show">
+<div class="Continer">
+<article>
+
+<div class="Available_courses">
+    <table id="Table_Of_Available_Courses" >
+        
+    </table>
+</div>
+<div class="Selected_courses">
+    
+    <table id="Table_Of_Selected_Courses">
+       
+       
+    </table>
+</div>
+
+</article>
+<div class="DisplaySchedule">
+
+<table id="Schedule_Table" >
+    <tr>
+        <td></td>
+        <td>8:00 To 8:50</td>
+        <td>9:00 To 9:50</td>
+        <td>10:00 To 10:50</td>
+        <td>11:00 To 11:50</td>
+        <td>13:00 To 13:50</td>
+        <td>14:00 To 14:50</td>
+        <td>15:00 To 15:50</td>
+    </tr>
+
+    <tr id="Sunday">
+        <td>Sunday</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    <tr id="Monday">
+        <td>Monday</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr id="Tuesday">
+        <td>Tuesday</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr id="Wednesday">
+        <td>Wednesday</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr id="Thursday">
+        <td>Thursday</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+</div>
+</div>
+
+<script src="Registeration.js"></script>
+<!--registeration code end-->
+
+
+
+</body>
+</div>
+</html>
